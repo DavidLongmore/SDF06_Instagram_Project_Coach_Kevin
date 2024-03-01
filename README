@@ -1,0 +1,6 @@
+# This was one of the most intricate projects so far. I won't say i am perfectlt happy with my display> I felt like i really understood the grid well as well as using the display flex and grid together. 
+What i found tough was using grid alone especially in the profile section to get the rest of the content in one column alongside the image. I ended opting for a grid to get close enough.
+The rest i felt quite confident using the :hover to ensure the likes and comments display without showing the text by using display none for the hidden elements.
+I manged to put the profile and gallery in two separate divs by using flex and displaying them below each other without having them overlap.
+I am fustrated by the fact the i was not confident in using the @media to ensure the code displays accurately across various screens like desktop and mobile and even tablet.
+I have put aside thime to becomne more proficient and ensuring i master grid and flex, not individually but using them together as well as in one doc.
